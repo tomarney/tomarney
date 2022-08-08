@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tom Arney
 - 🎓 I’m a PhD candidate in Southampton, UK and I used to be a web developer in London
 - :antarctica: I’m studying the geological history of the Southern Ocean and Antarctica
-- 💻 I'm currently learning Python in my day job and Eleventy and TailwindCSS in my spare time
+- 💻 I work with Python as a researcher and Eleventy and TailwindCSS as a web developer
 - 🌐 More at [tomarney.com](https://tomarney.com)
